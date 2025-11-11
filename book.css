@@ -1,0 +1,19 @@
+body{
+    background-image: url(booksbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.index-head{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-weight: 900;
+}
+
+.message{
+    font-weight: 600;
+    font-size: 20px;
+    background-color: rgb(116, 187, 246);
+    color: black;
+}
